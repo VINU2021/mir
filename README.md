@@ -8,6 +8,15 @@
 4. create git repository
 
 5. Add routing
+
    - npm i react-router-dom
    - create route for home screen
    - create router for product screen
+
+6.
+
+7.
+
+8.
+
+9. Manage State by Reducer Hook
