@@ -6,3 +6,8 @@
 2. install tools
 3. create react app
 4. create git repository
+
+5. Add routing
+   - npm i react-router-dom
+   - create route for home screen
+   - create router for product screen
