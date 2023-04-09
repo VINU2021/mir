@@ -26,3 +26,5 @@
 11. create product and rating component
 
 12. create prodcut detail screen
+
+13. create-loading -meassage-component
