@@ -11,13 +11,24 @@ body {
 }
 main {
   flex: 1;
+  padding: 1rem;
+}
+.btn-primary {
+  background-color: #408e91;
+  border-color: #f5c6ec;
 }
 .products {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
 }
-
+/*img {
+  width: 15rem;
+}
+*/
+.rating span {
+  color: #e11299;
+}
 .product {
   border: 1px #404040 solid;
   margin: 1rem;

@@ -22,3 +22,5 @@
 9. Manage State by Reducer Hook
 
 10. Add bootstarp ui framework
+
+11. create product and rating component
