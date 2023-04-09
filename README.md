@@ -28,3 +28,5 @@
 12. create prodcut detail screen
 
 13. create-loading -meassage-component
+
+14. Implement Add to cart
