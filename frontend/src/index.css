@@ -14,20 +14,20 @@ main {
   padding: 1rem;
 }
 .btn-primary {
-  background-color: #408e91;
-  border-color: #f5c6ec;
+  background-color: #c50909;
+  border-color: #e74646;
 }
 .products {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
 }
-/*img {
-  width: 15rem;
+.img-large {
+  max-width: 100%;
 }
-*/
+
 .rating span {
-  color: #e11299;
+  color: #f49d1a;
 }
 .product {
   border: 1px #404040 solid;

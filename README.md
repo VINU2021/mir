@@ -24,3 +24,5 @@
 10. Add bootstarp ui framework
 
 11. create product and rating component
+
+12. create prodcut detail screen
