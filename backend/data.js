@@ -1,6 +1,7 @@
 const data = {
   products: [
     {
+      _id: '1',
       name: 'cello ball point pen',
       slug: 'cello-ball-pen1',
       category: 'pen',
@@ -13,6 +14,7 @@ const data = {
       description: 'high quality',
     },
     {
+      _id: '2',
       name: 'cello ball point pen',
       slug: 'cello-ball-pen2',
       category: 'pen',
@@ -25,6 +27,7 @@ const data = {
       description: 'high quality',
     },
     {
+      _id: '3',
       name: 'cello ball point pen',
       slug: 'cello-ball-pen3',
       category: 'pen',
@@ -37,6 +40,7 @@ const data = {
       description: 'high quality',
     },
     {
+      _id: '4',
       name: 'cello ball point pen',
       slug: 'cello-ball-pen4',
       category: 'pen',
@@ -49,6 +53,7 @@ const data = {
       description: 'high quality',
     },
     {
+      _id: '5',
       name: 'cello ball point pen',
       slug: 'cello-ball-pen5',
       category: 'pen',
@@ -57,7 +62,7 @@ const data = {
       brand: 'cello',
       rating: 4.2,
       numReviews: 10,
-      countInStock: 5,
+      countInStock: 0,
       description: 'high quality',
     },
   ],
