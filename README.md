@@ -34,3 +34,5 @@
 15. Add to cart
 
 16. cart screen
+
+17. complete cart screen
