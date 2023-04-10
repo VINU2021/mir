@@ -29,8 +29,8 @@
 
 13. create-loading -meassage-component
 
-14. Implement Add to cart
+14. Implement Add to cart button
 
-15. complete Add to cart
+15. Add to cart
 
-16.
+16. cart screen
