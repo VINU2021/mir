@@ -36,3 +36,5 @@
 16. cart screen
 
 17. complete cart screen
+
+18. sign in
