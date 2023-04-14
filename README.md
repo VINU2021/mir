@@ -38,8 +38,9 @@
 17. complete cart screen
 
 18. sign in
-<<<<<<< HEAD
 
-19. seed sample
-=======
->>>>>>> 94c98f3e3194dc614cc8b6273cd88113be794eee
+19. connect to mongo db
+
+20. seed product
+
+21. seed the users
