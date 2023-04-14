@@ -33,6 +33,14 @@ main {
   border: 1px #404040 solid;
   margin: 1rem;
 }
+.checkout-steps > div {
+  border-bottom: 0.5rem solid #a0a0a0;
+  color: #a0a0a0;
+}
+.checkout-steps > div.active {
+  border-bottom: 0.5rem solid #0e7592;
+  color: #116978;
+}
 
 .product img {
   width: 100%;
