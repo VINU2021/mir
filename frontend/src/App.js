@@ -8,56 +8,14 @@ import { Badge, Nav } from 'react-bootstrap';
 import { useContext } from 'react';
 import { Store } from './Store';
 import CartScreen from './screens/CartScreen';
+import SigninScreen from './screens/SigninScreen';
 
-/*function App() {
-  const { state } = useContext(Store);
-  const { cart } = state;
-  return (
-    <BrowserRouter>
-      <div className="d-flex flex-column site-cont">
-        <header>
-          <NavBar bg="dark" variant="dark">
-            <Container>
-              <LinkContainer to="/">
-                <NavBar.Brand>Make It Right</NavBar.Brand>
-              </LinkContainer>
-              <Nav className="me-auto">
-                <Link to="/cart" className="nav-link">
-                  Cart
-                  {cart.cartItems.lenght > 0 && (
-                    <Badge pill bd="danger">
-                      {cart.cartItems.length}
-                    </Badge>
-                  )}
-                </Link>
-              </Nav>
-            </Container>
-          </NavBar>
-        </header>
-        <main>
-          <Container className="mt-3">
-            <Routes>
-              <Route path="/product/:slug" element={<ProductScreen />} />
-              <Route path="/" element={<HomeScreen />} />
-            </Routes>
-          </Container>
-        </main>
-        <footer>
-          <div className="text-center">All rights reservered</div>
-        </footer>
-      </div>
-    </BrowserRouter>
-  );
-}
-
-export default App;
-*/
 function App() {
   const { state } = useContext(Store);
   const { cart } = state;
   return (
     <BrowserRouter>
-      <div className="d-flex flex-column site-container">
+      <div className="d-flex flex-column site-cont">
         <header>
           <Navbar bg="dark" variant="dark">
             <Container>
@@ -82,6 +40,7 @@ function App() {
             <Routes>
               <Route path="/product/:slug" element={<ProductScreen />} />
               <Route path="/cart" element={<CartScreen />} />
+              <Route path="/signin" element={<SigninScreen />} />
               <Route path="/" element={<HomeScreen />} />
             </Routes>
           </Container>

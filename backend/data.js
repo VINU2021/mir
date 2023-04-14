@@ -1,8 +1,8 @@
 const data = {
   products: [
     {
-      _id: '1',
-      name: 'cello ball point pen',
+      //_id: '1',
+      name: 'cello ball point pen-1',
       slug: 'cello-ball-pen1',
       category: 'pen',
       image: '/image/p11.jpeg', //679x829
@@ -14,8 +14,8 @@ const data = {
       description: 'high quality',
     },
     {
-      _id: '2',
-      name: 'cello ball point pen',
+      //_id: '2',
+      name: 'cello ball point pen-2',
       slug: 'cello-ball-pen2',
       category: 'pen',
       image: '/image/p12.jpeg',
@@ -27,8 +27,8 @@ const data = {
       description: 'high quality',
     },
     {
-      _id: '3',
-      name: 'cello ball point pen',
+      //_id: '3',
+      name: 'cello ball point pen-3',
       slug: 'cello-ball-pen3',
       category: 'pen',
       image: '/image/p11.jpeg',
@@ -40,8 +40,8 @@ const data = {
       description: 'high quality',
     },
     {
-      _id: '4',
-      name: 'cello ball point pen',
+      //_id: '4',
+      name: 'cello ball point pen-4',
       slug: 'cello-ball-pen4',
       category: 'pen',
       image: '/image/p12.jpeg',
@@ -53,8 +53,8 @@ const data = {
       description: 'high quality',
     },
     {
-      _id: '5',
-      name: 'cello ball point pen',
+      //_id: '5',
+      name: 'cello ball point pen*5',
       slug: 'cello-ball-pen5',
       category: 'pen',
       image: '/image/p12.jpeg',
