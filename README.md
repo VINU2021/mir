@@ -38,5 +38,8 @@
 17. complete cart screen
 
 18. sign in
+<<<<<<< HEAD
 
 19. seed sample
+=======
+>>>>>>> 94c98f3e3194dc614cc8b6273cd88113be794eee
