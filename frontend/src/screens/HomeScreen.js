@@ -6,7 +6,7 @@ import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Product from '../components/Product';
 import { Helmet } from 'react-helmet-async';
-import LoadingBox from '../components/LoadinBox';
+import LoadingBox from '../components/LoadingBox';
 import MessageBox from '../components/MessageBox';
 
 const reducer = (state, action) => {

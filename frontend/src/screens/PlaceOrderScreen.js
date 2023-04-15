@@ -11,7 +11,7 @@ import { toast } from 'react-toastify';
 import { getError } from '../utils';
 import { Store } from '../Store';
 import CheckoutSteps from '../components/CheckoutSteps';
-import LoadingBox from '../components/LoadinBox';
+import LoadingBox from '../components/LoadingBox';
 
 const reducer = (state, action) => {
   switch (action.type) {
