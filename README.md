@@ -52,3 +52,5 @@
 24. shipping address
 
 25. Create sign up screen
+
+26. Implement Slect payment method screen
