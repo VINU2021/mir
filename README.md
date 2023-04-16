@@ -77,3 +77,5 @@
 
 32.
 33. ADD SIDE BAR
+
+34. search screen
