@@ -17,6 +17,10 @@ main {
   background-color: #c50909;
   border-color: #e74646;
 }
+.btn-outline-primary {
+  color: aliceblue;
+  background-color: #ce5858;
+}
 .products {
   display: flex;
   flex-wrap: wrap;
@@ -54,4 +58,26 @@ main {
 }
 .small-container {
   max-width: 600px;
+}
+/* sidebar */
+.navbar-brand {
+  font-weight: bold;
+}
+.side-navbar {
+  width: 240px;
+  height: 100%;
+  position: absolute;
+  left: -300px;
+  background-color: #6a6867;
+  transition: 0.5s;
+}
+
+.site-container {
+  transition: 0.4s;
+}
+.active-cont {
+  margin-left: 240px;
+}
+.active-nav {
+  left: 0;
 }
