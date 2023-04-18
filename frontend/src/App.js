@@ -248,8 +248,16 @@ function App() {
             </Routes>
           </Container>
         </main>
-        <footer>
-          <div className="text-center">All rights reserved</div>
+        <footer className="footer-pin">
+          <div className="text-center">
+            <strong>All Rights Reserved</strong>
+          </div>
+          <div className="text-center">
+            For Queries Contact us: MakeItRight@gmail.com
+          </div>
+          <div className="text-center">
+            <strong>Delivery between 5 - 7 working days </strong>
+          </div>
         </footer>
       </div>
     </BrowserRouter>
