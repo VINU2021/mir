@@ -13,55 +13,49 @@
    - create route for home screen
    - create router for product screen
 
-6.
+6. Manage State by Reducer Hook
 
-7.
+7. Add bootstarp ui framework
 
-8.
+8. create product and rating component
 
-9. Manage State by Reducer Hook
+9. create prodcut detail screen
 
-10. Add bootstarp ui framework
+10. create-loading -meassage-component
 
-11. create product and rating component
+11. Implement Add to cart button
 
-12. create prodcut detail screen
+12. Add to cart
 
-13. create-loading -meassage-component
+13. cart screen
 
-14. Implement Add to cart button
+14. complete cart screen
 
-15. Add to cart
+15. sign in
 
-16. cart screen
+16. connect to mongo db
 
-17. complete cart screen
+17. seed product
 
-18. sign in
+18. seed the users
 
-19. connect to mongo db
+19. sign in backend API
 
-20. seed product
+20. complete sign in screen
 
-21. seed the users
+21. shipping address
 
-22. sign in backend API
+22. Create sign up screen
 
-23. complete sign in screen
+23. Implement Select payment method screen
 
-24. shipping address
+24. place order screen
 
-25. Create sign up screen
+25. Implement place order
 
-26. Implement Select payment method screen
+26. orderScreen
 
-27. place order screen
-
-28. Implement place order
-
-29. orderScreen
-
-30. Pay Order By PayPal
+27. Pay Order By PayPal
 
     1. generate paypal client id
     2. create api to return client id
@@ -72,10 +66,6 @@
     7. render paypal button
     8. implement onApprove payment function
     9. create pay order api in backend
+28. ADD SIDE BAR
 
-31.
-
-32.
-33. ADD SIDE BAR
-
-34. search screen
+29. search screen
